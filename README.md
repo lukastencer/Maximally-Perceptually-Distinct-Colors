@@ -1,0 +1,1 @@
+Generating Maximally-Perceptually-Distinct-Colors for matplotlib in LAB space
